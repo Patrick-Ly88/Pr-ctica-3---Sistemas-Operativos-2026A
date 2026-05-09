@@ -20,6 +20,8 @@ int main()
 		case 0: //Proeso hijo
 
 			{
+				printf("Soy el hijo con el PID: %d\n", getpid());
+
 				FILE *archivo = fopen("log.txt", "w");
 				if(archivo == NULL) exit(1);
 
@@ -34,6 +36,7 @@ int main()
 
 		default: //Proceso padre
 
+			printf("Soy el padre con el PID: %d\n", getpid());
 			for(i = 0; i < 10; i++){
 				variable += 10;
 				printf("Padre incrementa variable a: %d\n", variable);
