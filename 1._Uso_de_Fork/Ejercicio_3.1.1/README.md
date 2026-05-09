@@ -1,7 +1,7 @@
 # Ejercicio 3.1.1
 Ejecute el programa de la Figura 1 e identifique los valores PID y PPID de cada proceso.
 
-Ejecución del código de la Figura 1:
+*Ejecución del código de la Figura 1:*
 
 <img width="369" height="116" alt="Captura de pantalla 2026-05-06 210117" src="https://github.com/user-attachments/assets/e57fa7af-7b63-4182-b830-e51602555c53" />
 
