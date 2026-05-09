@@ -1,0 +1,10 @@
+Hijo lee valor de variable: 0
+Hijo lee valor de variable: 0
+Hijo lee valor de variable: 0
+Hijo lee valor de variable: 0
+Hijo lee valor de variable: 0
+Hijo lee valor de variable: 0
+Hijo lee valor de variable: 0
+Hijo lee valor de variable: 0
+Hijo lee valor de variable: 0
+Hijo lee valor de variable: 0
